@@ -3,21 +3,21 @@ html {
   }
   
   body {
-    background-color: #efd5ec;
-    color: rgb(117, 22, 226);
+    background-color:papayawhip;
+    color: rgb(15, 34, 237);
   }
   
   a {
-    color: rgb(230, 99, 43);
+    color: rgb(26, 238, 220);
   }
   
   a:visited {
-    color: rgb(245, 63, 46);
+    color: brown;
   }
   
   a:hover,
   a:active {
-    color: #0e8d0e;
+    color: darkgreen;
   }
   
   table,
